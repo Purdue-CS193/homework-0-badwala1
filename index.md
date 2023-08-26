@@ -6,6 +6,5 @@
 - Only one lecture to attend 	<sub>Don't worry, I'll still say hi in PSO's cuz it'll be fun.</sub>
 - ***COOL GITHUB THINGS***
 
-#0969DA
 The rest of this page feels empty, so I'm just gonna add some fun color stuff and cats.
 
