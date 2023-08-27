@@ -9,7 +9,6 @@
 The rest of this page feels empty, so I'm just gonna add some fun color stuff and cats.
 
 ![A CAT](https://bit.ly/fcc-running-cats)
-![A CAT](https://t4.ftcdn.net/jpg/05/69/84/67/240_F_569846700_i3o9u2fhPVVq7iJAzkqMqCwjWSyv53tT.jpg)
-![A CAT](https://bit.ly/fcc-relaxing-cat)
+![A CAT]([https://t4.ftcdn.net/jpg/05/69/84/67/240_F_569846700_i3o9u2fhPVVq7iJAzkqMqCwjWSyv53tT.jpg](https://bit.ly/fcc-relaxing-cat))
 ![A CAT](https://hips.hearstapps.com/hmg-prod/images/cat-quotes-1543599392.jpg)
 ![A CAT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29wDASFhLY2UO7w2ObQVk4ArHr82bZDvfIw&usqp=CAU)
